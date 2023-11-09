@@ -1,0 +1,16 @@
+*.pem
+*.pfx
+*.pwd
+*.swp
+/*.ipynb
+*~
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+/.env
+/.idea/
+/.ipynb_checkpoints/
+/keyfiles/
+/soap.sqlite
